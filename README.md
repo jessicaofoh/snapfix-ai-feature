@@ -2,7 +2,7 @@
 
 An AI assistant that walks UK households through simple home repairs, with an eval set that checks every prompt change before it ships.
 
-> Built as a portfolio project for **GitHub for AI PMs**, a Product Geeks Lightning Lesson by Jessica Ofoh.
+> Built as a portfolio project for **GitHub for AI PMs**, a free Product Geeks lesson by Jessica Ofoh.
 
 ## The problem
 People waste time and money on small repairs because instructions are scattered across manuals and videos. SnapFix answers in plain English, using trusted repair guides only.
